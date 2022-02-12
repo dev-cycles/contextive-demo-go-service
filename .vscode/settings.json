@@ -1,0 +1,3 @@
+{
+    "contextive.path": "`go list -m -f '{{.Dir}}' github.com/dev-cycles/contextive-demo-go-common`/.contextive/definitions.yml"
+}
